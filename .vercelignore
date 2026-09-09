@@ -1,0 +1,3 @@
+# Build-time assembly script; not part of the served site.
+# Keeping it out also stops Vercel's zero-config Python builder detection.
+_assemble.py
